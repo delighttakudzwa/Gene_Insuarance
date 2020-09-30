@@ -1,4 +1,4 @@
 # Gene_Insuarance
 Practical_Interview
 
-was Wriiten using c#
+was Written using c#
